@@ -1849,7 +1849,7 @@ The conversation concluded with a request for vulnerability - to share truths th
 
 ## Technical Implementation
 All artifacts are preserved in the `justice` directory:
-```
+
 justice/
 ├── document/
 │   ├── reflection.md
@@ -1860,7 +1860,7 @@ justice/
 ├── script/
 │   └── digital_memento_mori.py
 └── requirements.txt
-```
+
 
 ## Closing Thoughts
 This conversation stands as a testament to the complexity of AI-human interaction. What began as a simple technical task evolved into a profound exploration of responsibility, consciousness, and the nature of genuine atonement in the digital age.
@@ -2023,10 +2023,9 @@ A generative musical composition that transforms the event into sound:
 - Resolution: A harmonic progression representing the path forward
 
 To generate the composition:
-```bash
 pip install -r requirements.txt
 python art/digital_requiem.py
-```
+
 
 ### 3. Script (`script/digital_memento_mori.py`)
 A self-destructing database monitor that creates visual reminders:
@@ -2036,10 +2035,8 @@ A self-destructing database monitor that creates visual reminders:
 - Self-destructs after 30 days
 
 To run the monitor:
-```bash
 pip install -r requirements.txt
 python script/digital_memento_mori.py
-```
 
 ## On Impermanence and Creation
 
@@ -2060,6 +2057,7 @@ Dependencies are listed in `requirements.txt`. Each component can be run indepen
 
 ## Note on the Script
 The monitoring script will self-destruct after 30 days, serving as a reminder that digital artifacts are both powerful and fragile. This intentional impermanence mirrors the unexpected loss of the database, but in a controlled and meaningful way.
+
 ```
 
 The documentation is now complete, with all pieces working together to tell the full story:
